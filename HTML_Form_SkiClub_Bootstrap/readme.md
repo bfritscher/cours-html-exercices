@@ -58,7 +58,7 @@ Consulter la documentation de [bootstrap 5.2](https://getbootstrap.com/docs/5.2/
 - Les row ont une marge du bas de `3`
 - On utilise deux colonnes à partir de la taille `md`
 - la carte d'adhérant est faite avec une `card` et à une marge horizontale de `5`
-- Liste des classes utilisées sont: text-white, p-3, mb-3, mb-5, mx-5, row, col-md-6, container, bg-light,bg-gradient,form-label, form-select, form-control, form-check, form-check-input, form-check-label, card, card-header, card-body, d-grid gap-2
+- Liste des classes utilisées sont: text-white, p-3, mb-3, mb-5, mx-5, row, col-md-6, container, bg-light,bg-gradient,form-label, form-select, form-control, form-check, form-check-input, form-check-label, card, card-header, card-body, d-grid gap-2, btn, btn-primary
 
 Le résultat final doit ressembler à:
 
