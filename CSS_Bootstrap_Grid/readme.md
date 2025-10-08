@@ -1,4 +1,4 @@
-# Exercice: CSS Bootstrap
+# Exercice: CSS Bootstrap Grid
 
 [![](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/bfritscher/cours-html-exercices/tree/master/CSS_Bootstrap_Grid)
 
