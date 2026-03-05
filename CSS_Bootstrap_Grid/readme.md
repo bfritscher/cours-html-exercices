@@ -21,3 +21,6 @@ Le résultat doit être une grille qui adapte ses colonnes au différents taille
 
 ### Large (lg)
 ![](lg.png)
+
+
+Vous pouvez valider l'exercice sur https://html.bf0.ch/#bootstrap_grid .
